@@ -13,7 +13,7 @@ Watchout, is an effort to use computer vision to avoid road accidents, and ensur
 
 ## 2. Clone the repo
 ```bash
-git clone https://github.com/Ahmedsaed/Driver-Drowsiness-Detection.git
+git clone https://github.com/dynamicdhxx/watchout.git
 ```
 
 ## 3. Update permissions 
